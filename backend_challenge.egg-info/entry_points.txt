@@ -1,0 +1,3 @@
+[console_scripts]
+msr = msr.__main__:main
+

@@ -1,0 +1,9 @@
+README.md
+setup.py
+backend_challenge.egg-info/PKG-INFO
+backend_challenge.egg-info/SOURCES.txt
+backend_challenge.egg-info/dependency_links.txt
+backend_challenge.egg-info/entry_points.txt
+backend_challenge.egg-info/top_level.txt
+msr/__init__.py
+msr/__main__.py
